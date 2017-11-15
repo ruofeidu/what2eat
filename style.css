@@ -1,0 +1,13 @@
+#Event{
+	font-size: 70pt;	
+	font-family: tahoma;
+	font-weight: bold;
+}
+
+#Addr{
+	font-size: 20pt;	
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform: none;
+}
+
